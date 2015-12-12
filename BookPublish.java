@@ -1,4 +1,4 @@
-// 1.(2) BookPrice
+// 1.(2) BookPublish
 
 class BookPublish extends Book{
   private String publisher;
@@ -22,7 +22,7 @@ class BookPublish extends Book{
     this.year = year;
   }
 
-  int getyear(){                        // 発行年を返す
+  int getYear(){                        // 発行年を返す
     return this.year;
   }
 

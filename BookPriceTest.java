@@ -2,6 +2,6 @@
 
 class BookPriceTest{
   public static void main(String[] args){
-    
+
   }
 }
